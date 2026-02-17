@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lumina AI Video Editor",
+  "description": "A high-performance AI video generation and editing studio powered by Gemini Veo models. Generate cinematic videos from text or images, and extend your creations with AI-driven continuity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
